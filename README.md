@@ -5,11 +5,12 @@ practices to get into the frontend with javascript
 
 ### video link: 
 
-:floppy_disk: [Demonstration of the code of this repository]()
+:floppy_disk: [Demonstration of the code of this repository](https://www.youtube.com/watch?v=saKPu8HPzg8)
                 
 ----
+![20](https://github.com/DiegoRivasDev/responsive-website-with-js/assets/149741364/fe56ffe7-402b-43b8-94f4-d0facd3f8637)
 
-[![1.png](https://i.postimg.cc/vTtCRnVg/1.png)](https://postimg.cc/GT9XGHzd)
+
 
 # Take a look at my website
  :earth_americas: [Diego Rivas | Software engineer & Developer](https://diegorivasdev.github.io)
